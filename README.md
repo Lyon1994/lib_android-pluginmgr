@@ -1,0 +1,1 @@
+<p>copy from <a href="https://github.com/houkx/android-pluginmgr with a litter repair">https://github.com/houkx/android-pluginmgr with a litter repair</a></p>
