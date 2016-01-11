@@ -365,7 +365,7 @@ public class PluginManager implements FileFilter {
         return dexInternalStoragePath;
     }
 
-    Context getContext() {
+    public Context getContext() {
         return context;
     }
 
@@ -458,4 +458,5 @@ public class PluginManager implements FileFilter {
     public boolean isMainThread() {
         return Looper.getMainLooper() == Looper.myLooper();
     }
+
 }
